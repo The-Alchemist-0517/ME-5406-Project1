@@ -25,13 +25,12 @@ Need to define the RL agent type ('mc'/'sarsa'/'ql') in the main funtion, and ch
 For example, if you want to train q-learning with 4x4 grid world with 10000 epochs, then you could set the corresponding parameters in the Parameter.py and comment out the commands used for training in the main function and use
 ```
 python main.py
-
 ```
 
 ### Test
 Need to define the test type, which can be described as below
 * t1: Frozen lake environment training, correctness test, and comparison test among three algorithms
-* t2, 10X10 frozen lake environment training, correctness test, and comparison test among algorithms
+* t2, Frozen lake environment training, correctness test, and comparison test among Q learning and Sarsa
 * 23, comparison test for different learning rate value settings
 * t4, comparison test for different gamma value settings
 * t5, comparison test for different epsilon value settings
@@ -39,7 +38,6 @@ Need to define the test type, which can be described as below
 If you want to test with t1, you could comment out the commands used for training in the main function and use
 ```
 python main.py 
-
 ```
 
 ### Training Results
@@ -83,12 +81,4 @@ python main.py
   
 * Epsilon
   Red/0.7, Green/0.8, Blue/0.9
-
-Note: I didn't put all the plots here, but you can find all of them in the ./Results file
-
-### Reference
-Morvan Zhou
-
-### Acknowledgement
-Don't forget to give me a star if you like this! :blush:
 
