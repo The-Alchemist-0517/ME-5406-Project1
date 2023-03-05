@@ -42,10 +42,10 @@ python main.py
 * First visit Monte Carlo
   * 4x4 grid world
    
-    ![](Results/Monte_carlo/mc_step_initial.png)
+    ![](Results/Monte_carlo/4x4/mc_step_initial.png)
   * 10x10 grid world
   
-    ![](Results/Monte_carlo/mc_reward_1010.png)
+    ![](Results/Monte_carlo/10x10/mc_reward_1010.png)
 * SARSA
   * 4x4 grid world
     ![](Results/Plot/SARSA_4X4.png)
