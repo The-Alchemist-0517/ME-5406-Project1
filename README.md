@@ -42,10 +42,10 @@ python main.py
 * First visit Monte Carlo
   * 4x4 grid world
    
-    ![](Results/Monte Carlo/4x4/mc_step_initial.png)
+    ![](https://github.com/The-Alchemist-0517/ME-5406-Project1/blob/main/Results/Monte%20Carlo/4x4/mc_reward_initial.png)
   * 10x10 grid world
   
-    ![](Results/Monte Carlo/10x10/mc_reward_1010.png)
+    ![](https://github.com/The-Alchemist-0517/ME-5406-Project1/blob/main/Results/Monte%20Carlo/10x10/mc_reward_1010.png)
 * SARSA
   * 4x4 grid world
     ![](Results/Plot/SARSA_4X4.png)
