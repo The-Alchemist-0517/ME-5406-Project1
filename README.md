@@ -4,8 +4,6 @@ This is a repository which contains simple implementations for ME5406 Deep learn
 ## Problem description
 Consider a RL based robot is in a grid frozen lake environment, where the goal of the robot is to pick up the target while avoid falling into the ice holes
 
-![frozenlake](images/froze_lake.png)
-
 ## RL algorithm
 1. First visit monte carlo
 2. SARSA
@@ -40,7 +38,7 @@ If you want to test with t1, you could comment out the commands used for trainin
 python main.py 
 ```
 
-### Training Results
+### Some Training Results
 * First visit Monte Carlo
   * 4x4 grid world
     ![](Results/Plot/Monte_carlo_4x4.png)
@@ -66,12 +64,12 @@ python main.py
     From left to right: Monte Carlo, SARSA, Q-learning
     ![](https://github.com/zhangyifengdavid/ME5406_Course_Project/blob/main/Results/Final%20policy/10x10/final_policy.png)
     
-### Testing Results
+### Some Testing Results
 * Algorithm comparisons
     * 4x4 grid world
-      ![](Results/Comparison/Algorithm/4x4/combination.png)
+      ![](Results/Comparison/Algorithm/4x4/compare_reward_44.png)
     * 10x10 grid world
-      ![](Results/Comparison/Algorithm/10x10/combination.png)
+      ![](Results/Comparison/Algorithm/10x10/compare_reward_1010.png)
       
 * Learning rate
   Red/0.01, Green/0.001, Blue/0.0001
