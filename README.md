@@ -41,9 +41,11 @@ python main.py
 ### Some Training Results
 * First visit Monte Carlo
   * 4x4 grid world
-    ![](Results/Plot/Monte_carlo_4x4.png)
+   
+    ![](Results/Monte_carlo/mc_step_initial.png)
   * 10x10 grid world
-    ![](Results/Plot/Monte_carlo_10x10.png)
+  
+    ![](Results/Monte_carlo/mc_reward_1010.png)
 * SARSA
   * 4x4 grid world
     ![](Results/Plot/SARSA_4X4.png)
