@@ -67,8 +67,10 @@ python main.py
 ### Some Testing Results
 * Algorithm comparisons
     * 4x4 grid world
+    
       ![](Results/Comparison/Algorithm/4x4/compare_reward_44.png)
     * 10x10 grid world
+    
       ![](Results/Comparison/Algorithm/10x10/compare_reward_1010.png)
       
 * Learning rate
