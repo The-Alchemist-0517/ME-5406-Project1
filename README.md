@@ -63,12 +63,16 @@ python main.py
     
 * Final policy
   * 4x4 grid world
-    From left to right: Monte Carlo, SARSA, Q-learning
-    ![](https://github.com/zhangyifengdavid/ME5406_Course_Project/blob/main/Results/Final%20policy/4x4/final_policy.png)
+    
+    ![](https://github.com/The-Alchemist-0517/ME-5406-Project1/blob/main/Results/Final%20route/mc_finial_route.png)
+    
+  * 5x5 grid world
+
+    ![](https://github.com/The-Alchemist-0517/ME-5406-Project1/blob/main/Results/Final%20route/mc_finial_route.png)
     
   * 10x10 grid world
-    From left to right: Monte Carlo, SARSA, Q-learning
-    ![](https://github.com/zhangyifengdavid/ME5406_Course_Project/blob/main/Results/Final%20policy/10x10/final_policy.png)
+    
+    ![](https://github.com/The-Alchemist-0517/ME-5406-Project1/blob/main/Results/Final%20route/mc_final_route55.png)
     
 ### Some Testing Results
 * Algorithm comparisons
