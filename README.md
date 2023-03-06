@@ -48,13 +48,17 @@ python main.py
     ![](https://github.com/The-Alchemist-0517/ME-5406-Project1/blob/main/Results/Monte%20Carlo/10x10/mc_reward_1010.png)
 * SARSA
   * 4x4 grid world
-    ![](Results/Plot/SARSA_4X4.png)
+  
+    ![](https://github.com/The-Alchemist-0517/ME-5406-Project1/blob/main/Results/SARSA/4x4/sarsa_reward_initial.png)
   * 10x10 grid world
-    ![](Results/Plot/SARSA_10X10.png)
+  
+    ![](https://github.com/The-Alchemist-0517/ME-5406-Project1/blob/main/Results/SARSA/10x10/sarsa_reward_1010.png)
 * Q-learning
   * 4x4 grid world
+  
     ![](Results/Plot/Q_learning_4x4.png)
   * 10x10 grid world
+  
     ![](Results/Plot/Q_learning_10x10.png)
     
 * Final policy
