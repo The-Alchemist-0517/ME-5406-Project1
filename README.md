@@ -56,10 +56,10 @@ python main.py
 * Q-learning
   * 4x4 grid world
   
-    ![](Results/Plot/Q_learning_4x4.png)
+    ![](https://github.com/The-Alchemist-0517/ME-5406-Project1/blob/main/Results/Q%20learning/4x4/ql_reward_44.png)
   * 10x10 grid world
   
-    ![](Results/Plot/Q_learning_10x10.png)
+    ![](https://github.com/The-Alchemist-0517/ME-5406-Project1/blob/main/Results/Q%20learning/10x10/ql_reward_1010.png)
     
 * Final policy
   * 4x4 grid world
